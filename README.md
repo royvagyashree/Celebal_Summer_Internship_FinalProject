@@ -12,9 +12,9 @@ Clean and responsive user interface using Streamlit
 
 Technologies Used
 
-Python
-Streamlit – for the web interface
+Python,
+Streamlit – for the web interface,
 Pandas, NumPy – for data processing
-Scikit-learn – for the machine learning model
+Scikit-learn – for the machine learning model,
 Joblib – for loading the saved model
 
